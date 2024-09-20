@@ -77888,7 +77888,7 @@ s=r.length
 return new A.E1(m.bN,!0,new A.aqu(m,a5,k),A.ah(a4,A.di(A.b([new A.eM(B.bo,a4,a4,j,a4),new A.eM(B.bo,a4,a4,A.ah(a4,A.c8(A.vA(m.dm,new A.aqv(a5,m,p),s,a4,B.aw,!0),a4,a4),B.u,a4,a4,300,a4,new A.ae(26,0,8,0),a4,a.a.a),a4)],a3),B.X,B.z,B.p),a4,a4,new A.aJ(a4,h,a4,a4,a4,a4,B.r),a4,a4,a4,a4,a4),a4)},
 $S:528}
 A.aqr.prototype={
-$2(a,b){return B.f.aT(a.w,b.w)},
+$2(a,b){return B.f.aT(b.w,a.w)},
 $S:185}
 A.aqs.prototype={
 $1(a){return a.a===this.a.bq.a},
@@ -78188,8 +78188,8 @@ s=i.b
 r=this.a
 q=new A.aq(s,new A.aqa(r),A.a6(s).i("aq<1>"))
 p=q.gJ(q)
-if(i.c.f===A.dU(B.lz))r.bj.pT(0,"/game-room-view",new A.lR(r.bq,i),t.z)
-q=A.kh(B.aF,new A.dP($.aaX,j,j),j)
+if(i.c.f===A.dU(B.lz)){r.m(0)
+r.bj.pT(0,"/game-room-view",new A.lR(r.bq,i),t.z)}q=A.kh(B.aF,new A.dP($.aaX,j,j),j)
 o=$.K_()
 n=$.bC()
 m=A.b1(n)
